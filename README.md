@@ -13,10 +13,12 @@ Distribution of fare amounts & distances
 
 Key trends for decision-making and optimization
 
+
 📂 Repository Structure
 ├── Uberlytics-Ride Booking Analysis in NCR.ipynb   # Main analysis notebook
 ├── README.md                                       # Project documentation
 └── dataset/                                        # (Optional) Raw dataset folder
+
 
 🛠️ Technologies Used
 
@@ -32,6 +34,7 @@ Libraries:
 
    Plotly – Interactive visualizations
 
+   
 🔍 Key Analysis & Visualizations
 
   Data Cleaning & Preprocessing
@@ -44,6 +47,7 @@ Libraries:
 
   Heatmaps & advanced visualizations for trend analysis  
 
+
 📊 Insights
 
 Peak ride demand occurs during office commute hours (8–10 AM, 5–8 PM)
@@ -54,6 +58,7 @@ Certain routes consistently show high demand & surge pricing
 
 Ride type preference varies with time and distance (UberGo vs UberXL, etc.)
 
+
 🚀 How to Run
 
 1.Clone this repository:
@@ -61,6 +66,7 @@ git clone https://github.com/PreranaSangar/Uberlytics-Ride-Booking-Analysis.git
 
 2.Open the Jupyter Notebook:
 jupyter notebook Uberlytics-Ride Booking Analysis in NCR.ipynb
+
 
 📌 Future Scope
 
